@@ -1,0 +1,1 @@
+# flask_basic_structure_template
